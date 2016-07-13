@@ -34,4 +34,3 @@
 		Synth(\bpf, [\low, ~low.at(i), \high, ~high.at(i), \outChan, i%23, \inChan, 1, \amp, 1]);
 	};
 ))
-Status API Training Shop Blog About
